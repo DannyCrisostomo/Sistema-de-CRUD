@@ -40,6 +40,8 @@ Este proyecto proporciona una solución completa para la manipulación de datos,
 Sumérgete en este repositorio para obtener una visión más profunda del código y descubrir cómo esta aplicación puede mejorar tus procesos de gestión de datos en entornos de aplicaciones de Windows Form. ¡Aprecio sugerencias, contribuciones y mejoras continuas! ¡Gracias por tu visita!
 
 ## Diseño
+- Usuario: admin
+- Contraseña: admin
 
 ![php](https://github.com/DannyCrisostomo/Sistema-de-CRUD/blob/d1d39257945e6a6e85483d8de062eddb29e12aa1/Dise%C3%B1o/Login.png)
 ![php](https://github.com/DannyCrisostomo/Sistema-de-CRUD/blob/e452587bcf38e2d0792e170a7e0e5e6d5bdc9e87/Dise%C3%B1o/login.png)
