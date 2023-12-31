@@ -1,0 +1,42 @@
+C:\Users\DANNY\Desktop\Entregable\Login\login\bin\Debug\login.exe.config
+C:\Users\DANNY\Desktop\Entregable\Login\login\bin\Debug\login.exe
+C:\Users\DANNY\Desktop\Entregable\Login\login\bin\Debug\login.pdb
+C:\Users\DANNY\Desktop\Entregable\Login\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\DANNY\Desktop\Entregable\Login\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\DANNY\Desktop\Entregable\Login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\DANNY\Desktop\Entregable\Login\login\obj\Debug\login.exe
+C:\Users\DANNY\Desktop\Entregable\Login\login\obj\Debug\login.pdb
+C:\Users\DANNY\Desktop\Entregable\Login\login\obj\Debug\login.Login.resources
+C:\Users\DANNY\Desktop\Entregable\Login\login\bin\Debug\Domain.dll
+C:\Users\DANNY\Desktop\Entregable\Login\login\bin\Debug\Domain.pdb
+C:\Users\DANNY\Desktop\Entregable\Login\login\obj\Debug\login.csproj.CopyComplete
+C:\Users\DANNY\Desktop\Entregable\Login\login\bin\Debug\DatosAcceso.dll
+C:\Users\DANNY\Desktop\Entregable\Login\login\bin\Debug\DatosAcceso.pdb
+C:\Users\DANNY\Desktop\Entregable\Login\login\bin\Debug\CapaTranversal.dll
+C:\Users\DANNY\Desktop\Entregable\Login\login\bin\Debug\CapaTranversal.pdb
+C:\Users\DANNY\Desktop\Entregable\Login\login\obj\Debug\login.FormPrincipal.resources
+C:\Users\DANNY\Desktop\Entregable\Login\login\obj\Debug\login.Create.resources
+C:\Users\DANNY\Desktop\Entregable\Login\login\obj\Debug\login.Inicio.resources
+C:\Users\DANNY\Desktop\Entregable\Login\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\DANNY\Desktop\Entregable\Login\login\obj\Debug\login.Proposito.resources
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\bin\Debug\login.exe.config
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\bin\Debug\login.exe
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\bin\Debug\login.pdb
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\bin\Debug\CapaTranversal.dll
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\bin\Debug\DatosAcceso.dll
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\bin\Debug\Domain.dll
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\bin\Debug\CapaTranversal.pdb
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\bin\Debug\DatosAcceso.pdb
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\bin\Debug\Domain.pdb
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\obj\Debug\login.csproj.AssemblyReference.cache
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\obj\Debug\login.FormPrincipal.resources
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\obj\Debug\login.Create.resources
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\obj\Debug\login.Login.resources
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\obj\Debug\login.Properties.Resources.resources
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\obj\Debug\login.Inicio.resources
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\obj\Debug\login.Proposito.resources
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\obj\Debug\login.csproj.GenerateResource.cache
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\obj\Debug\login.csproj.CopyComplete
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\obj\Debug\login.exe
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\login\obj\Debug\login.pdb

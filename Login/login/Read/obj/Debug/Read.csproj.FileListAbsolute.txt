@@ -1,0 +1,10 @@
+C:\Users\DANNY\Desktop\Entregable\Login\login\Read\bin\Debug\Read.exe.config
+C:\Users\DANNY\Desktop\Entregable\Login\login\Read\bin\Debug\Read.exe
+C:\Users\DANNY\Desktop\Entregable\Login\login\Read\bin\Debug\Read.pdb
+C:\Users\DANNY\Desktop\Entregable\Login\login\Read\obj\Debug\Read.csproj.AssemblyReference.cache
+C:\Users\DANNY\Desktop\Entregable\Login\login\Read\obj\Debug\Read.Form1.resources
+C:\Users\DANNY\Desktop\Entregable\Login\login\Read\obj\Debug\Read.Properties.Resources.resources
+C:\Users\DANNY\Desktop\Entregable\Login\login\Read\obj\Debug\Read.csproj.GenerateResource.cache
+C:\Users\DANNY\Desktop\Entregable\Login\login\Read\obj\Debug\Read.csproj.CoreCompileInputs.cache
+C:\Users\DANNY\Desktop\Entregable\Login\login\Read\obj\Debug\Read.exe
+C:\Users\DANNY\Desktop\Entregable\Login\login\Read\obj\Debug\Read.pdb
