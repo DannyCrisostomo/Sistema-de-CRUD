@@ -1,0 +1,6 @@
+C:\Users\DANNY\Desktop\Entregable\Login\CapaTranversal\bin\Release\CapaTranversal.dll
+C:\Users\DANNY\Desktop\Entregable\Login\CapaTranversal\bin\Release\CapaTranversal.pdb
+C:\Users\DANNY\Desktop\Entregable\Login\CapaTranversal\obj\Release\CapaTransversal.csproj.AssemblyReference.cache
+C:\Users\DANNY\Desktop\Entregable\Login\CapaTranversal\obj\Release\CapaTransversal.csproj.CoreCompileInputs.cache
+C:\Users\DANNY\Desktop\Entregable\Login\CapaTranversal\obj\Release\CapaTranversal.dll
+C:\Users\DANNY\Desktop\Entregable\Login\CapaTranversal\obj\Release\CapaTranversal.pdb

@@ -1,0 +1,12 @@
+C:\Users\DANNY\Desktop\Entregable\Login\CapaTranversal\bin\Debug\CapaTranversal.dll
+C:\Users\DANNY\Desktop\Entregable\Login\CapaTranversal\bin\Debug\CapaTranversal.pdb
+C:\Users\DANNY\Desktop\Entregable\Login\CapaTranversal\obj\Debug\CapaTransversal.csproj.CoreCompileInputs.cache
+C:\Users\DANNY\Desktop\Entregable\Login\CapaTranversal\obj\Debug\CapaTranversal.dll
+C:\Users\DANNY\Desktop\Entregable\Login\CapaTranversal\obj\Debug\CapaTranversal.pdb
+C:\Users\DANNY\Desktop\Entregable\Login\CapaTranversal\obj\Debug\CapaTransversal.csproj.AssemblyReference.cache
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\CapaTranversal\bin\Debug\CapaTranversal.dll
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\CapaTranversal\bin\Debug\CapaTranversal.pdb
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\CapaTranversal\obj\Debug\CapaTransversal.csproj.AssemblyReference.cache
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\CapaTranversal\obj\Debug\CapaTransversal.csproj.CoreCompileInputs.cache
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\CapaTranversal\obj\Debug\CapaTranversal.dll
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\CapaTranversal\obj\Debug\CapaTranversal.pdb
