@@ -1,0 +1,22 @@
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\bin\Debug\Domain.dll
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\bin\Debug\Domain.pdb
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\bin\Debug\DatosAcceso.dll
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\bin\Debug\DatosAcceso.pdb
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\obj\Debug\Domain.dll
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\obj\Debug\Domain.pdb
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\bin\Debug\CapaTranversal.dll
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\bin\Debug\CapaTranversal.pdb
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\Domain\bin\Debug\Domain.dll
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\Domain\bin\Debug\Domain.pdb
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\Domain\bin\Debug\CapaTranversal.dll
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\Domain\bin\Debug\DatosAcceso.dll
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\Domain\bin\Debug\CapaTranversal.pdb
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\Domain\bin\Debug\DatosAcceso.pdb
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\Domain\obj\Debug\Domain.csproj.CopyComplete
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\Domain\obj\Debug\Domain.dll
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\Domain\obj\Debug\Domain.pdb

@@ -1,0 +1,16 @@
+C:\Users\DANNY\Desktop\Entregable\Login\DatosAcceso\bin\Debug\DatosAcceso.pdb
+C:\Users\DANNY\Desktop\Entregable\Login\DatosAcceso\bin\Debug\CapaTranversal.dll
+C:\Users\DANNY\Desktop\Entregable\Login\DatosAcceso\bin\Debug\CapaTranversal.pdb
+C:\Users\DANNY\Desktop\Entregable\Login\DatosAcceso\obj\Debug\DatosAcceso.csproj.AssemblyReference.cache
+C:\Users\DANNY\Desktop\Entregable\Login\DatosAcceso\obj\Debug\DatosAcceso.csproj.CoreCompileInputs.cache
+C:\Users\DANNY\Desktop\Entregable\Login\DatosAcceso\obj\Debug\DatosAcceso.csproj.CopyComplete
+C:\Users\DANNY\Desktop\Entregable\Login\DatosAcceso\obj\Debug\DatosAcceso.dll
+C:\Users\DANNY\Desktop\Entregable\Login\DatosAcceso\obj\Debug\DatosAcceso.pdb
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\DatosAcceso\bin\Debug\DatosAcceso.pdb
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\DatosAcceso\bin\Debug\CapaTranversal.dll
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\DatosAcceso\bin\Debug\CapaTranversal.pdb
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\DatosAcceso\obj\Debug\DatosAcceso.csproj.AssemblyReference.cache
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\DatosAcceso\obj\Debug\DatosAcceso.csproj.CoreCompileInputs.cache
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\DatosAcceso\obj\Debug\DatosAcceso.csproj.CopyComplete
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\DatosAcceso\obj\Debug\DatosAcceso.dll
+E:\•Senati\•4to SEMESTRE\☺Trabajo Entregable\2.lenguaje de programacion\Entregable\Login\DatosAcceso\obj\Debug\DatosAcceso.pdb

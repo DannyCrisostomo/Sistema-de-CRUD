@@ -1,0 +1,11 @@
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\bin\Release\Domain.dll
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\bin\Release\Domain.pdb
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\bin\Release\CapaTranversal.dll
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\bin\Release\DatosAcceso.dll
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\bin\Release\CapaTranversal.pdb
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\bin\Release\DatosAcceso.pdb
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\obj\Release\Domain.csproj.AssemblyReference.cache
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\obj\Release\Domain.csproj.CopyComplete
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\obj\Release\Domain.dll
+C:\Users\DANNY\Desktop\Entregable\Login\Domain\obj\Release\Domain.pdb
