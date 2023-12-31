@@ -42,3 +42,6 @@ Sumérgete en este repositorio para obtener una visión más profunda del códig
 ## Diseño
 
 ![php](https://github.com/DannyCrisostomo/Sistema-de-CRUD/blob/e452587bcf38e2d0792e170a7e0e5e6d5bdc9e87/Dise%C3%B1o/login.png)
+![php](https://github.com/DannyCrisostomo/Sistema-de-CRUD/blob/fb174b3b927a73f88242f28ea4f70a4ff2c529d4/Dise%C3%B1o/inicio.png)
+![php](https://github.com/DannyCrisostomo/Sistema-de-CRUD/blob/fb174b3b927a73f88242f28ea4f70a4ff2c529d4/Dise%C3%B1o/crud.png)
+![php](https://github.com/DannyCrisostomo/Sistema-de-CRUD/blob/fb174b3b927a73f88242f28ea4f70a4ff2c529d4/Dise%C3%B1o/proposito.png)
