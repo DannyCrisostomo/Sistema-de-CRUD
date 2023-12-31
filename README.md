@@ -38,3 +38,7 @@ Este proyecto proporciona una solución completa para la manipulación de datos,
 ## Explora el Repositorio
 
 Sumérgete en este repositorio para obtener una visión más profunda del código y descubrir cómo esta aplicación puede mejorar tus procesos de gestión de datos en entornos de aplicaciones de Windows Form. ¡Aprecio sugerencias, contribuciones y mejoras continuas! ¡Gracias por tu visita!
+
+## Diseño
+
+![php](https://github.com/DannyCrisostomo/Gererador-de-QR/blob/main/Generador%20QR.png)
